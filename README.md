@@ -1,1 +1,1 @@
-# VScodersed.github.io
+# vscodersed.github.io
